@@ -1,0 +1,11 @@
+n_layers: 8
+attention_dim: 512
+attention_heads: 8
+attention_dropout_rate: 0.1
+ffn_dim: 2048
+dropout_rate: 0.1
+cnn_module_kernel: 31
+relu_type: swish
+positional_dropout_rate: 0.1
+spk_dim: 256
+num_speakers: 11

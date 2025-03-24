@@ -1,0 +1,11 @@
+in_channels: 80
+hidden_channels: 192 
+kernel_size: 3
+dilation_rate: 1
+n_blocks: 12
+n_layers: 3
+p_dropout: 0.1
+n_split: 4
+n_sqz: 2
+sigmoid_scale: False
+gin_channels: 592

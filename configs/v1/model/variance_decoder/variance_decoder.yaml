@@ -1,0 +1,9 @@
+defaults:
+ - _self_
+ - energy: energy
+ - pitch: pitch
+ - linguistic: linguistic
+
+linguistic_dim: 128
+pitch_dim: 128
+energy_dim: 128

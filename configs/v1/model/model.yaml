@@ -1,0 +1,6 @@
+defaults:
+ - _self_
+ - video_encoder: video_encoder
+ - variance_decoder: variance_decoder
+ - mel_decoder: mel_decoder
+ - post_net: post_net

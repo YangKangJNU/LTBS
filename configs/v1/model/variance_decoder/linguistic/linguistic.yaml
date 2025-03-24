@@ -1,0 +1,6 @@
+encoder_hidden: 512
+filter_size: 256
+kernel_size: 3
+dropout: 0.5
+output_channels: 200
+n_layer: 4
